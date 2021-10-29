@@ -1,0 +1,10 @@
+apple
+mouse
+book
+pencil
+donkey
+bottle
+wood
+buzz
+wax
+kitten
